@@ -75,3 +75,5 @@ Image processing was done as follows:
 ![alt text][image7]
 * Image normalization (Line 198)
 ![alt text][image8]
+
+### Video can be found [here](https://youtu.be/1o-9CZspfyI)
